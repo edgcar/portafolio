@@ -1,0 +1,152 @@
+* {margin: 0;
+    padding: 0}
+
+.conteiner {
+    background-color: rgb(147, 104, 74);}
+    
+p {color: blue;
+    font-family: "Noto Sans";
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;}
+
+ul {list-style: none;
+    font-family: "Noto Sans";
+    font-size: 25px;}
+
+ol, ul {list-style: none;}
+a {text-decoration: none;}
+
+header {display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 100px 20px 100px;}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    align-items: center;}
+    
+header nav ul li a {
+    color: black;}
+
+header a i {
+    color: black;
+    font-size: 3em;
+    padding: 0.5em;}
+
+.seccion-1 {
+    background-color: rgb(190, 161, 141);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;}
+
+.acerca-de {
+    justify-content: center;
+    padding: 30px;}
+
+.acerca-imagen {
+    padding: 30px;}
+
+.logo-grande {
+    justify-content: center;}
+
+.logo-grande img{
+    width: 100%;}
+
+.seccion-2 img{
+    width: 100%;}
+
+.seccion-3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;}
+
+.teatro-valencia{
+    border-radius: 30px;
+    overflow: hidden;}
+
+.presentacion-1 {
+    padding: 50px;;}
+
+.presentacion-1 h3 {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;}
+
+.presentacion-1 p {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;}
+
+.presentacion-2 {
+    padding: 50px;}
+    
+.presentacion-2 h3 {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;}
+    
+.presentacion-2 p {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;}
+
+.presentacion-3 {
+    padding: 50px;}
+    
+.presentacion-3 h3 {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;}
+    
+.presentacion-3 p {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;}
+
+.presentacion-4 {
+    padding: 50px;}
+        
+.presentacion-4 h3 {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;}
+        
+.presentacion-4 p {
+    color: black;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;}
+
+#contacto-principal 
+    {display: flex;
+    justify-content: space-around;
+    background-color: rgb(147, 104, 74);
+    padding: 15px 25px 15px 25px;}
+
+h3 {color: black;
+    font-family: "Noto Sans";
+    font-size: 40px;}
+
+footer nav ul {
+    color: black;
+    font-family: "Noto Snas";
+    font-size: 30px;}
